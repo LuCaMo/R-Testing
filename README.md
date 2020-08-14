@@ -8,6 +8,6 @@ A repository that will be linked with RStudio
       View Publick key --> Copy
   2. On GitHub
       Account Settings -> SSH Aand GPG keys -> "New SSH key"
-      Name -> optional name
-      XXXX -> Paste the key from step 1
-      Update profile -> confirm the addition of the RSA key with the GitHub Pasword.
+      Title -> optional name (from the program to be liked) 
+      Key -> Paste the key from step 1
+      Add SSH key -> confirm the addition of the RSA key with the GitHub Pasword.
