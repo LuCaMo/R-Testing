@@ -11,3 +11,10 @@ A repository that will be linked with RStudio
       Title -> optional name (from the program to be liked) 
       Key -> Paste the key from step 1
       Add SSH key -> confirm the addition of the RSA key with the GitHub Pasword.
+
+#Creating a controlled project on RStudio - Cloning Git repository to RStudio
+  1. File-> New project
+      Version Control -> Git
+      Repository URL : https://github.com/USER-NAME/REPOSITORY-NAME
+      Create a project
+  2.      
